@@ -1,0 +1,20 @@
+{
+  "welcome_message": "¡Bienvenido a breathing.ai!",
+  "sign_up_message": "Regístrese para comenzar a incorporar hábitos saludables en su flujo de trabajo diario.",
+  "email": "Correo electrónico",
+  "first_name": "Primer nombre",
+  "last_name": "Apellido",
+  "password": "Contraseña",
+  "confirm_password": "Confirmar contraseña",
+  "sign_up": "Regístrate",
+  "forgot_password": "Has olvidado tu contraseña",
+  "already_have_account": "¿Ya tienes una cuenta?",
+  "log_in": "Iniciar sesión",
+  "email_error": "Por favor agregar un correo electrónico.",
+  "first_name_error": "",
+  "last_name_error": "",
+  "password_length_error": "Proporcione al menos 8 caracteres",
+  "password_requirements_error": "Por favor, compruebe los requisitos de contraseña",
+  "password_confirm_error": "Por favor, asegúrese de que sus contraseñas coincidan",
+  "sign_up_error_message": "Por favor proporcione correo electrónico, nombre y contraseña"
+}

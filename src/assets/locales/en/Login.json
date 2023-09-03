@@ -1,0 +1,13 @@
+{
+  "welcome_message": "Welcome back!",
+  "log_in_message": "Log in to continue building healthy habits into your daily workflow.",
+  "email": "Email",
+  "password": "Password",
+  "log_in": "Log In",
+  "forgot_password": "Forgot Password?",
+  "dont_have_account": "Don't have an account yet?",
+  "sign_up": "Sign Up",
+  "email_error": "Please add a valid email.",
+  "password_error": "Please add a valid email and password.",
+  "login_error_message": "The email or password is incorrect."
+}

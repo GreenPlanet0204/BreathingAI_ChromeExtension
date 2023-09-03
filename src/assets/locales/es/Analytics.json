@@ -1,0 +1,20 @@
+{
+  "analytics": "Analíticos",
+  "break": "descanso",
+  "breaks": "descansos",
+  "hour": "hora",
+  "hours": "horas",
+  "minutes": "minutos",
+  "day": "día",
+  "days": "días",
+  "total_breaks_taken_today_line_1": "Totales de momentos ",
+  "total_breaks_taken_today_line_2": "de descanso que has ",
+  "total_breaks_taken_today_line_3": "tomado hoy",
+  "screen_time_line_1": "Tiempo enfrente de ",
+  "screen_time_line_2": "pantalla sin ",
+  "screen_time_line_3": "descansos(de hoy)",
+  "screen_time_online": "Tempo passado online hoje",
+  "streak": "Racha de descanso actual",
+  "longest_streak_line_1": "Racha de descanso ",
+  "longest_streak_line_2": "más largo"
+}

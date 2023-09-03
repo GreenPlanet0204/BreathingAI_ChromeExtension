@@ -1,0 +1,14 @@
+{
+    "pause": "Pausa",
+    "pausing": "Pausar",
+    "pause_prompt_line_1": "¿Por cuánto tiempo te ",
+    "pause_prompt_line_2": "gustaría pausar breathing.ai?",
+    "5_min": "5 Minutos",
+    "1_hour": "1 Hora",
+    "8_hours": "8 Horas",
+    "24_hours": "24 Horas",
+    "indefinitely": "Indefinidamente",
+    "resume_prompt_line_1": "Por favor,",
+    "resume_prompt_line_2": "reanude la extensión",
+    "resume": "Resumir"
+}

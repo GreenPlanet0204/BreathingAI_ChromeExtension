@@ -1,0 +1,11 @@
+body {
+  background: var(--theme-light-bg-color);
+  /*  padding: theme('spacing.2'); */
+}
+
+/* darkmode */
+.dark {
+  body {
+    background: var(--theme-dark-bg-color);
+  }
+}

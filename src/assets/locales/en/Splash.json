@@ -1,0 +1,12 @@
+{
+  "splash": {
+    "headline": "Welcome to"
+  },
+  "welcome": {
+    "pin": "pin and access the breathing.ai extension here",
+    "getStarted": "Okay, let's get started! Find breathing.ai in your toolbar and see how it works."
+  },
+  "login": "Login",
+  "signUp": "Sign up",
+  "logInMessage": "Already using breathing.ai? "
+}

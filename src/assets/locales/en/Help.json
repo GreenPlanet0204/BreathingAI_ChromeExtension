@@ -1,0 +1,13 @@
+{
+    "title": "Help",
+    "contact_us": "Contact Us",
+    "prompt": "If you have any questions or concerns, let us know below and we'll be in touch soon!",
+    "name": "Name",
+    "email": "Email",
+    "question": "What can we help you with?",
+    "submit": "Submit", 
+    "still_have_questions": "Still have questions?",
+    "visit_prompt_line_1": "Visit our",
+    "visit_prompt_redirect": "FAQ page",
+    "visit_prompt_line_2": " to see if any of your questions can be answered."
+}

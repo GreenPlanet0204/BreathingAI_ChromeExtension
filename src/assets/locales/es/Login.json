@@ -1,0 +1,13 @@
+{
+  "welcome_message": "¡Te damos la bienvenida!",
+  "log_in_message": "Conéctate para seguir construyendo hábitos saludables en tu flujo de trabajo diario.",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "log_in": "Iniciar sesión",
+  "forgot_password": "¿Olvidaste tu contraseña?",
+  "dont_have_account": "¿Aún no tienes una cuenta?",
+  "sign_up": "Regístrate",
+  "email_error": "Por favor agregar un correo electrónico.",
+  "password_error": "Por favor agregar un correo electrónico y contraseña.",
+  "login_error_message": "El correo electrónico o la contraseña está incorrecta."
+}

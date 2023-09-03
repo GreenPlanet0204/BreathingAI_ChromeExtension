@@ -1,0 +1,14 @@
+{
+  "verify": "Verificar ",
+  "verified": "Verificado",
+  "please_confirm_message_line_1": "Por favor, confirma tu cuenta ",
+  "please_confirm_message_line_2": "poniendo el código de verificación enviado a ",
+  "please_confirm_message_line_3": "tu correo electrónico.",
+  "verification_code": "Código de verificación",
+  "have_not_received": "¿No lo has recibido?",
+  "resend": "Envía nuevamente el código de verificación.",
+  "incorrect_code": "Código incorrecto",
+  "success_message": "¡Has verificado con éxito tu ",
+  "account": "cuenta!",
+  "continue": "Continuar"
+}

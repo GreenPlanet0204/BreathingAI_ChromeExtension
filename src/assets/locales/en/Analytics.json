@@ -1,0 +1,17 @@
+{
+  "analytics": "Analytics",
+  "breaks": "breaks",
+  "hours": "hours",
+  "days": "days",
+  "minutes": "minutes",
+  "total_breaks_taken_today_line_1": "Total breaks taken today",
+  "total_breaks_taken_today_line_2": "",
+  "total_breaks_taken_today_line_3": "",
+  "screen_time_line_1": "Screen time with ",
+  "screen_time_line_2": "no breaks today",
+  "screen_time_online": "Time spent online today",
+  "screen_time_line_3": "",
+  "streak": "Current break streak",
+  "longest_streak_line_1": "Longest break streak",
+  "longest_streak_line_2": ""
+}

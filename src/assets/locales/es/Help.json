@@ -1,0 +1,13 @@
+{
+    "title": "Ayuda",
+    "contact_us": "Contactenos",
+    "prompt": "¡Si tiene alguna pregunta o inquietud, háganoslo saber a continuación y nos pondremos en contacto pronto!",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "question": "¿En qué podemos ayudarte?",
+    "submit": "Enviar", 
+    "still_have_questions": "¿Todavía tiene preguntas?",
+    "visit_prompt_line_1": "Visite nuestra",
+    "visit_prompt_redirect": "página de preguntas frecuentes",
+    "visit_prompt_line_2": " para ver si alguna de sus preguntas puede ser respondida."
+}

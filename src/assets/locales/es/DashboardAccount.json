@@ -1,0 +1,17 @@
+{
+    "title": "Configuraciones de cuenta",
+    "account": "Cuenta",
+    "name": "Nombre:",
+    "email": "Correo electrónico:",
+    "password": "Contraseña:",
+    "change_password": "Cambiar contraseña",
+    "reset_prompt": "Se envió un correo electrónico para restablecer la contraseña a la bandeja de entrada. Por favor, introduzca los detalles de su correo electrónico a continuación.",
+    "code": "Código",
+    "new_password": "Nueva contraseña",
+    "confirm_password": "Confirmar contraseña",
+    "save": "Guardar",
+    "matching_error": "Por favor, asegúrese de que sus contraseñas coincidan.",
+    "length_error": "Proporcione al menos 8 caracteres.",
+    "missing_error": "Please provide code & new password.(TRANSLATE)",
+    "password_error": "Por favor, compruebe los requisitos de contraseña."
+}

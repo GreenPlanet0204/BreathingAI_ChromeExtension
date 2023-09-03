@@ -1,0 +1,14 @@
+{
+  "pause": "Pause",
+  "pausing": "Pausing",
+  "pause_prompt_line_1": "How long would you like to ",
+  "pause_prompt_line_2": "pause breathing.ai for?",
+  "5_min": "5 Minutes",
+  "1_hour": "1 Hour",
+  "8_hours": "8 Hours",
+  "24_hours": "24 Hours",
+  "indefinitely": "Indefinitely",
+  "resume_prompt_line_1": "Please resume",
+  "resume_prompt_line_2": "extension to use",
+  "resume": "Resume"
+}

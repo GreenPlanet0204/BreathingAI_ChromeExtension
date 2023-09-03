@@ -1,0 +1,17 @@
+{
+    "title": "Account Settings",
+    "account": "Account",
+    "name": "Name:",
+    "email": "Email:",
+    "password": "Password:",
+    "change_password": "Change Password",
+    "reset_prompt": "An email to reset your password was sent to your inbox. Please enter the details from your email down below.",
+    "code": "Code",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password",
+    "save": "Save",
+    "matching_error": "Please make sure your passwords are matching.",
+    "length_error": "Please provide at least 8 characters.",
+    "missing_error": "Please provide code & new password.",
+    "password_error": "Please check password requirements"
+}

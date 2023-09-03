@@ -1,0 +1,29 @@
+{
+  "howTo": {
+    "title": "How to Use Breaks",
+    "text": "Take a breather and enjoy a combination of movement, meditation, or breathwork videos tailored to your current need. You can either select recommended guided videos each time it’s your break time or browse all videos in the Breaks Library."
+  },
+  "breaks": "Breaks",
+  "break_reminders": "Break Reminders",
+  "alert_sound": "Alert Sound",
+  "how_to_use_breaks": "How to Use Breaks",
+  "description": "Take a breather and enjoy a combination of movement, meditation, or breathwork videos tailored to your current need. You can either select recommended guided videos each time it’s your break time or browse all videos in the Breaks Library.",
+  "reminder_interval": "Reminder Interval",
+  "30min": "30 mins",
+  "45min": "45 mins",
+  "1hour": "1 hour",
+  "custom": "Custom",
+  "suggested": "Suggested",
+  "recent": "Recent",
+  "saved": "Saved",
+  "explore": "Explore More Breaks",
+  "movement": "Movement",
+  "meditation": "Meditation",
+  "breathwork": "Breathwork",
+  "no_breaks_taken_message": "You haven't taken any breaks... yet.",
+  "no_saved_breaks_message": "You haven't saved any breaks... yet.",
+  "break_time": "Break Time",
+  "take_break": "Take a break",
+  "snooze": "Snooze",
+  "hey_looks_like_you_could_use_breather": "Hey! Looks like you could use a breather."
+}
